@@ -6,6 +6,6 @@
   <PropertyGroup>
     <ActiveDebugProfile>webApp</ActiveDebugProfile>
     <ShowAllFiles>false</ShowAllFiles>
-    <NameOfLastUsedPublishProfile>C:\Users\t-aclouvel\source\repos\front-contoso-acuiculture-v2\active-directory-aspnetcore-webapp-openidconnect-v2-aspnetcore3-1\Properties\PublishProfiles\app-frontend-dev-01 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\t-aclouvel\source\repos\front-contoso-acuiculture-v2\active-directory-aspnetcore-webapp-openidconnect-v2-aspnetcore3-1\Properties\PublishProfiles\front-contoso-acuiculture-02 - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>
